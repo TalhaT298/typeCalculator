@@ -1,0 +1,2 @@
+
+This TypeScript code uses the "inquirer" library to prompt the user for two numbers and an arithmetic operator. It then performs the corresponding operation and prints the result. The code ensures that valid inputs are provided before proceeding with the calculation. The result is displayed in the console. This script serves as a simple calculator application with user input using inquirer in a TypeScript environment.
